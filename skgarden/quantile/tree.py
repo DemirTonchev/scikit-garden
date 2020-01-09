@@ -1,6 +1,6 @@
 import numpy as np
 
-from sklearn.tree._tree import BaseDecisionTree
+from sklearn.tree import BaseDecisionTree
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.tree import ExtraTreeRegressor
 from sklearn.utils import check_array
